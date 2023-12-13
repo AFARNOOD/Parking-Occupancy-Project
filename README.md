@@ -1,8 +1,8 @@
 # Parking Occupancy Prediction
 
-Brief description of your project.
+![istockphoto-1352459274-612x612](https://github.com/AFARNOOD/Parking-Occupancy-Project/assets/145398892/f2c7b7a3-a345-4e6f-a509-eacd68ee7d46)
 
-![4197158](https://github.com/AFARNOOD/Parking-Occupancy-Project/assets/145398892/287cac55-9948-4dc4-a9ee-c3483c982bfe)
+Brief description of your project.
 
 ## Table of Contents
 
