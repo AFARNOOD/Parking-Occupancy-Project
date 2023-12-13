@@ -4,7 +4,19 @@
 
 ## Table of Contents
 
-Describe how to install your project.
+Problem Description
+About the Data
+Questions
+Goals
+Features Description
+Tech Stack and concepts
+Setup
+Download Data
+Virtual Environment
+Run Service Locally
+Docker Container
+Deploying to Cloud
+Service Testing
 
 ## Problem Description
 
