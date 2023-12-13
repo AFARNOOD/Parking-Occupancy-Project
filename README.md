@@ -5,8 +5,8 @@
 ## Table of Contents
 
 * Problem Description
-*   About the Data
-  Questions
+  * About the Data
+  * Questions
   Goals
   Features Description
 Tech Stack and concepts
