@@ -1,4 +1,4 @@
-# Parking-Occupancy-Project
+# Parking Occupancy Prediction
 
 Brief description of your project.
 
