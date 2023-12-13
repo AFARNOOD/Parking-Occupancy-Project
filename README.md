@@ -7,16 +7,16 @@
 * Problem Description
   * About the Data
   * Questions
-  Goals
-  Features Description
-Tech Stack and concepts
-Setup
-Download Data
-Virtual Environment
-Run Service Locally
-Docker Container
-Deploying to Cloud
-Service Testing
+  * Goals
+  * Features Description
+* Tech Stack and concepts
+* Setup
+  * Download Data
+  * Virtual Environment
+  * Run Service Locally
+  * Docker Container
+  * Deploying to Cloud
+  * Service Testing
 
 ## Problem Description
 
