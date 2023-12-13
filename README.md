@@ -2,18 +2,26 @@
 
 Brief description of your project.
 
-## Installation
+## Table of Contents
 
 Describe how to install your project.
 
-## Usage
+## Problem Description
 
 Provide instructions on how to use your project.
 
-## Contributing
+### Questions
 
 Explain how others can contribute to your project.
 
-## License
+### Goals
+
+Specify the license for your project.
+
+### About the Data
+
+Specify the license for your project.
+
+### Features Description
 
 Specify the license for your project.
