@@ -5,7 +5,7 @@
 ## Table of Contents
 
 * Problem Description
-  About the Data
+*   About the Data
   Questions
   Goals
   Features Description
