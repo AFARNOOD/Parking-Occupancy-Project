@@ -20,20 +20,20 @@
 
 ## Problem Description
 
-Provide instructions on how to use your project.
+
 
 ### Questions
 
-Explain how others can contribute to your project.
+
 
 ### Goals
 
-Specify the license for your project.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ### About the Data
 
-Specify the license for your project.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ### Features Description
 
-Specify the license for your project.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
